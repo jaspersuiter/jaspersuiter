@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/jaspersuiter/static/css/main.5b141961.css",
-    "main.js": "/jaspersuiter/static/js/main.0a609b97.js",
+    "main.css": "/jaspersuiter/static/css/main.e76df871.css",
+    "main.js": "/jaspersuiter/static/js/main.60369476.js",
     "static/js/787.d4aba7ab.chunk.js": "/jaspersuiter/static/js/787.d4aba7ab.chunk.js",
     "static/media/logo.png": "/jaspersuiter/static/media/logo.7a5d967d7c383d282264.png",
     "index.html": "/jaspersuiter/index.html",
-    "main.5b141961.css.map": "/jaspersuiter/static/css/main.5b141961.css.map",
-    "main.0a609b97.js.map": "/jaspersuiter/static/js/main.0a609b97.js.map",
+    "main.e76df871.css.map": "/jaspersuiter/static/css/main.e76df871.css.map",
+    "main.60369476.js.map": "/jaspersuiter/static/js/main.60369476.js.map",
     "787.d4aba7ab.chunk.js.map": "/jaspersuiter/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5b141961.css",
-    "static/js/main.0a609b97.js"
+    "static/css/main.e76df871.css",
+    "static/js/main.60369476.js"
   ]
 }
