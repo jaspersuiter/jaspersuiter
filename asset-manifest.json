@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/jaspersuiter/static/css/main.310bcfac.css",
-    "main.js": "/jaspersuiter/static/js/main.b79e7143.js",
+    "main.css": "/jaspersuiter/static/css/main.cd21ccba.css",
+    "main.js": "/jaspersuiter/static/js/main.8dce963c.js",
     "static/js/787.d4aba7ab.chunk.js": "/jaspersuiter/static/js/787.d4aba7ab.chunk.js",
     "static/media/Resume.png": "/jaspersuiter/static/media/Resume.a1d15bb21e5431ba7a6b.png",
     "static/media/logo.png": "/jaspersuiter/static/media/logo.7a5d967d7c383d282264.png",
     "index.html": "/jaspersuiter/index.html",
-    "main.310bcfac.css.map": "/jaspersuiter/static/css/main.310bcfac.css.map",
-    "main.b79e7143.js.map": "/jaspersuiter/static/js/main.b79e7143.js.map",
+    "main.cd21ccba.css.map": "/jaspersuiter/static/css/main.cd21ccba.css.map",
+    "main.8dce963c.js.map": "/jaspersuiter/static/js/main.8dce963c.js.map",
     "787.d4aba7ab.chunk.js.map": "/jaspersuiter/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.310bcfac.css",
-    "static/js/main.b79e7143.js"
+    "static/css/main.cd21ccba.css",
+    "static/js/main.8dce963c.js"
   ]
 }
